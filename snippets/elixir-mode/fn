@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: fn
+# key: fn
+# --
+fn ->
+  $0
+end
